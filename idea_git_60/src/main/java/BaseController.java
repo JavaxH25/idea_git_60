@@ -4,6 +4,7 @@ public class BaseController {
         int a = 0;
         int b = 2;
         add(a, b);
+        System.out.println("hah ");
     }
 
     public static void add(int a, int b) {
