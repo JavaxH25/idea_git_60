@@ -1,10 +1,10 @@
 public class BaseController {
     public static void main(String[] args) {
         System.out.println("O(∩_∩)O哈哈~");
+        System.out.println("左侧");
         int a = 0;
         int b = 2;
         add(a, b);
-        System.out.println("hah ");
     }
 
     public static void add(int a, int b) {
